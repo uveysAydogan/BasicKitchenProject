@@ -1,0 +1,17 @@
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\bin\Debug\net6.0-windows\donguler_proje.exe
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\bin\Debug\net6.0-windows\donguler_proje.deps.json
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\bin\Debug\net6.0-windows\donguler_proje.runtimeconfig.json
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\bin\Debug\net6.0-windows\donguler_proje.dll
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\bin\Debug\net6.0-windows\donguler_proje.pdb
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.Form1.resources
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.Properties.Resources.resources
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.csproj.GenerateResource.cache
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.AssemblyInfoInputs.cache
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.AssemblyInfo.cs
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.csproj.CoreCompileInputs.cache
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.dll
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\refint\donguler_proje.dll
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.pdb
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\donguler_proje.genruntimeconfig.cache
+C:\Users\Uveys\Desktop\C# 2023\donguler_proje\donguler_proje\obj\Debug\net6.0-windows\ref\donguler_proje.dll
